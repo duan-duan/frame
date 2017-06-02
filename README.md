@@ -51,3 +51,6 @@ spring+springMVC+mybatis+maven
 2. 请注意 webapp是在 src\main  不是在frame下， idea默认添加web 是在项目根目录下
   
  
+ 
+ ###### 生成文件   
+ 双击 maven 命令中的  Plugins -> mybatis-generator 下的 mybatis-generator:generate 命令
