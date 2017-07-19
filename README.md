@@ -49,5 +49,8 @@ spring+springMVC+mybatis+maven
 ```
 
 2. 请注意 webapp是在 src\main  不是在frame下， idea默认添加web 是在项目根目录下
+
+
+###### 代码生成  mvn  Plugins   mytabis-generator 双击这个命令， 生成xml ，domain, dao
   
  
