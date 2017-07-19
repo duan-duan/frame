@@ -54,3 +54,6 @@ spring+springMVC+mybatis+maven
 ###### 代码生成  mvn  Plugins   mytabis-generator 双击这个命令， 生成xml ，domain, dao
   
  
+ 
+ ###### 生成文件   
+ 双击 maven 命令中的  Plugins -> mybatis-generator 下的 mybatis-generator:generate 命令
